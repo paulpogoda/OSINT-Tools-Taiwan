@@ -34,6 +34,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Get information about businesses Registration in Taiwan | by Ministry of Economic Affairs](https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?request_locale=en&fhl=en). Information to Search: Name of Company/Business, Unified Business No. or Factory Registration No., Address, Name of Company Representative, Name of Director/Supervisor/Managerial Officer, Foreign Company Name as specified in the Charter. 
 - [Company registration and business registration open data API (in Chinese only)](https://data.gcis.nat.gov.tw/main/index)
 - [Download FIA nationwide business (taxation registration) dataset (in Chinese only)](https://data.gov.tw/dataset/9400)
+- [Company Records | by Know Your Customer Limited](https://records.knowyourcustomer.hk/coverage/taiwan). Free anonymous company search across 149 jurisdictions, including Taiwan; on purchase, the company report and official filings are retrieved live from the official register, not cached (paid, from US$19, no subscription).
 
 ## Maps
 - [Cadastral and other Maps | Official](https://www.nlsc.gov.tw/en/cp.aspx?n=2148)
