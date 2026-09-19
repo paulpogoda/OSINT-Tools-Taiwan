@@ -35,6 +35,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Company registration and business registration open data API (in Chinese only)](https://data.gcis.nat.gov.tw/main/index)
 - [Download FIA nationwide business (taxation registration) dataset (in Chinese only)](https://data.gov.tw/dataset/9400)
 - [Company Records | by Know Your Customer Limited](https://records.knowyourcustomer.hk/coverage/taiwan). Free anonymous company search across 149 jurisdictions, including Taiwan; on purchase, the company report and official filings are retrieved live from the official register, not cached (paid, from US$19, no subscription).
+- [OpenRegistry](https://openregistry.sophymarine.com). Live GCIS (Ministry of Economic Affairs) company records — search, profile and filings read from the official register at query time, exposed over MCP
 
 ## Maps
 - [Cadastral and other Maps | Official](https://www.nlsc.gov.tw/en/cp.aspx?n=2148)
