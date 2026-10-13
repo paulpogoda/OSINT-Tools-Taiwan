@@ -1,6 +1,6 @@
 # OSINT-Tools-Taiwan
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" alt="Taiwan_FLAG"/>
-A list of OSINT resources and tools that may be useful to you when conducting investigations related to Taiwan (officially the Republic of China | ROC). Most of the resources and tools have versions in Chinese and English. However, Chinese versions could be more informative and updated.
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to Taiwan (officially the Republic of China | ROC). Most of the resources and tools have versions in Chinese and English. However, Chinese versions could be more informative and up to date.
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
@@ -35,6 +35,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Company registration and business registration open data API (in Chinese only)](https://data.gcis.nat.gov.tw/main/index)
 - [Download FIA nationwide business (taxation registration) dataset (in Chinese only)](https://data.gov.tw/dataset/9400)
 - [Company Records | by Know Your Customer Limited](https://records.knowyourcustomer.hk/coverage/taiwan). Free anonymous company search across 149 jurisdictions, including Taiwan; on purchase, the company report and official filings are retrieved live from the official register, not cached (paid, from US$19, no subscription).
+- [Tesari First Resort](https://tesari.ai/) — Tesari is an all-source intelligence platform designed for high-stakes environments, with applications ranging from trade compliance and supply chain illumination to financial crime investigations and complex litigation. It is a paid platform that offers a Tech for Good (Community Impact) Programme for OSINT practitioners and journalists. *Lang: EN.*
 
 ## Maps
 - [Cadastral and other Maps | Official](https://www.nlsc.gov.tw/en/cp.aspx?n=2148)
