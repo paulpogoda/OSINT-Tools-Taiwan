@@ -2,6 +2,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" alt="Taiwan_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Taiwan (officially the Republic of China | ROC). Most of the resources and tools have versions in Chinese and English. However, Chinese versions could be more informative and up to date.
 
+![Last updated](https://img.shields.io/github/last-commit/paulpogoda/OSINT-Tools-Taiwan?label=Last%20updated)
+
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
